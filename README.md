@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="20">.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I create web applications in which I develop the frontend and a bit of the backend. I am mainly involved in SPA development.
 
 ---
 
