@@ -85,9 +85,12 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/3o7aCTfyhYawdO
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="45" height="45"/>
       <br>Git
     </td>
+    <td align="center" width="96"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="45" height="45"/>
+      <br>Webpack
+    </td>
   </tr>
 </table>
-
 
 ---
 
