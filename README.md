@@ -89,6 +89,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/3o7aCTfyhYawdO
       <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="45" height="45"/>
       <br>Webpack
     </td>
+    <td align="center" width="96"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" title="Vite" **alt="Vite" width="45" height="45"/>
+      <br>Vite
+    </td>
   </tr>
 </table>
 
