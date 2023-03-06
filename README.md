@@ -59,8 +59,16 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/3o7aCTfyhYawdO
       <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="45" height="45"/>
       <br>SASS
     </td>
+    <td align="center" width="96"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg"  title="Eslint" alt="Eslint" width="45" height="45"/>
+      <br>Eslint
+    </td>
   </tr> 
   <tr>
+     <td align="center" width="96"> 
+      <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg"  title="Prettier" alt="Prettier" width="45" height="45"/>
+      <br>Prettier
+    </td>
     <td align="center" width="96"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwindcss" alt="Tailwindcss" width="45" height="45"/>
       <br>Tailwindcss
