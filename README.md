@@ -21,7 +21,7 @@
 ### :man_technologist: About Me :
 I am a Frontend Developer.
 - :telescope: I create web applications in which I develop the frontend and a bit of the backend. I am mainly involved in SPA development.
-- :speech_balloon: &nbsp;I can be contacted in **[Telegram](https://t.me/stirias)**
+- :speech_balloon: &nbsp;I can be contacted in **[Telegram](https://t.me/laide9)**
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
